@@ -6,7 +6,7 @@ import sys
 def main():
     print 'Hello there,', sys.argv[1]
 
-# only execute if python interprets this as main
+# bryan wrote this
 if '__main__' == __name__:
     main()
 
