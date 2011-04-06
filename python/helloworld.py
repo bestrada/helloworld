@@ -2,7 +2,7 @@
 
 import sys
 
-# main method
+# this is the first program anyone writes
 def main():
     print 'Hello there,', sys.argv[1]
 
