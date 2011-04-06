@@ -2,7 +2,7 @@
 
 import sys
 
-
+# main method
 def main():
     print 'Hello there,', sys.argv[1]
 
